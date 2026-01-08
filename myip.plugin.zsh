@@ -1,11 +1,8 @@
 # -*- mode: sh; eval: (sh-set-shell "zsh") -*-
 #
 # Plugin Name: myip
+# Description: Zsh plugin to provide myip command.
 # Repository: https://github.com/johnstonskj/zsh-myip-plugin
-#
-# Description:
-#
-#   Zsh plugin to provide myip command.
 #
 # Public variables:
 #
