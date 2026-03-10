@@ -1,8 +1,10 @@
 # -*- mode: sh; eval: (sh-set-shell "zsh") -*-
 #
-# Plugin Name: myip
-# Description: Zsh plugin to provide myip command.
-# Repository: https://github.com/johnstonskj/zsh-myip-plugin
+# @name: myip
+# @brief: Provide `myip` alias to show external IP address.
+# @repository: https://github.com/johnstonskj/zsh-myip-plugin
+# @version: 0.1.1
+# @license: MIT AND Apache-2.0
 #
 # Public variables:
 #
