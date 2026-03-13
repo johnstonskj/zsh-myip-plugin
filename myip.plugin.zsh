@@ -8,5 +8,5 @@
 #
 
 myip_plugin_init() {
-    @zplugins_define_alias myip alias myip='curl http://ipecho.net/plain; echo'
+    @zplugins_define_alias myip myip 'curl http://ipecho.net/plain; echo'
 }
